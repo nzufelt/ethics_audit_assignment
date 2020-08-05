@@ -5,10 +5,9 @@ This project is intentionally designed to mimic a security audit, a commonplace 
 
 The assignment consists of a few parts.
 1. Students first tasked to "design a social media app". This part is left intentionally vague to account for the many places in one's curriculum that this could be accomplished. Each student additionally writes a statement about which "axes of data" they will need to collect from their users in order to have the app fully function. some example axes of data might include the user's location, or an element of their identity such as their gender or preferred pronouns.
-1. Students read the supporting readings:
-  * _["The Philosopher Whose Fingerprints Are All Over the FTC's New Approach to Privacy"](https://www.theatlantic.com/technology/archive/2012/03/the-philosopher-whose-fingerprints-are-all-over-the-ftcs-new-approach-to-privacy/254365/)_ Alexis Madrigal, writing for The Atlantic, 29 Mar 2012,
-  * _["User behaviour: Websites and apps are designed for compulsion, even addiction. Should the net be regulated like drugs or casinos?"](https://aeon.co/essays/if-the-internet-is-addictive-why-don-t-we-regulate-it)_ Michael Schulson, writing for Aeon, 24 Nov 2015
-We gave students a 1-page exerpt from each article to read in class.
+1. Students read the following supporting readings. We gave students a 1-page exerpt from each article to read in class.
+    * _["The Philosopher Whose Fingerprints Are All Over the FTC's New Approach to Privacy"](https://www.theatlantic.com/technology/archive/2012/03/the-philosopher-whose-fingerprints-are-all-over-the-ftcs-new-approach-to-privacy/254365/)_ Alexis Madrigal, writing for The Atlantic, 29 Mar 2012,
+    * _["User behaviour: Websites and apps are designed for compulsion, even addiction. Should the net be regulated like drugs or casinos?"](https://aeon.co/essays/if-the-internet-is-addictive-why-don-t-we-regulate-it)_ Michael Schulson, writing for Aeon, 24 Nov 2015
 1. Students then complete the actual [ethics audit](ethics_audit.pdf) assignment. This assignment has two parts: the audit and the response from the app designer. You can see the questions below.
 1. There are many ways to follow-up from or to continue this assignment. The ethics audit itself has an element of response built into it, and you can hopefully see the effects of the audit manifesting in the app's design. It would additionally be helpful to have a classroom discussion about question 3 in the response. This question doesn't exist simply to make future versions of the project more impactful, but it tasks the students in this classroom to complete ethical critique and reflection, asking them to build upon their own understanding rather than simply take our list of questions as gospel.
 
